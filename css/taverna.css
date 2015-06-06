@@ -2,17 +2,14 @@
     font-size: 15px;
     line-height: 1.5;
 }
-
 .container {
     max-width: 980px;
 }
-
 .row {
     padding-top: 2em;
     margin: 0px auto;
-    width:  80%;
+    max-width: 940px;
 }
-
 .navbar-nav > li {
     float: left;
 }

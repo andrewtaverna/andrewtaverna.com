@@ -1,7 +1,25 @@
-.home-top {
-    padding-top: 50px;
+* {
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+.container {
+    max-width: 980px;
+}
+
+.row {
+    padding-top: 2em;
+    margin: 0px auto;
+    width:  80%;
 }
 
 .navbar-nav > li {
     float: left;
+}
+.heading {
+    padding-top: 3em;
+    text-align: center;
+}
+.center-block{
+    padding-top: 1.5em;
 }
